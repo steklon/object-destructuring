@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/x16x204l2r9o59fj?svg=true)](https://ci.appveyor.com/project/steklon/object-destructuring)
